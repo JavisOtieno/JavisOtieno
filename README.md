@@ -14,8 +14,6 @@ I'm a dedicated Software Developer passionate about full-stack web and mobile de
 
 📊 My Development Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavisOtieno&show_icons=true&theme=radical&hide_rank=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavisOtieno&layout=compact&theme=radical)
 
 📫 How to Reach Me
