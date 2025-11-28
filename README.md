@@ -1,6 +1,6 @@
 Hello, I'm Javis Otieno! 👋
 
-I'm a dedicated Software Developer passionate about full-stack web and mobile development. I'm excited about building scalable applications using Laravel, Spring Boot, Flask, PHP, Android, and WordPress, along with modern front-end technologies like Vue.js and React.js. My skills in Java, Python, JavaScript, HTML, CSS, Linux, and more enable me to deliver impactful solutions. With experience in API integration (including LLMs), server management, microservices, and deployment automation, I create efficient and secure systems.
+I'm a dedicated Software Developer passionate about full-stack web and mobile development. I'm excited about building scalable applications using Laravel, Spring Boot, Flask, PHP, Android, and WordPress, along with modern front-end technologies like Vue.js and React.js. My skills in Java, PHP, Python, JavaScript, HTML, CSS, Linux, and more enable me to deliver impactful solutions. With experience in API integration (including LLMs), server management, microservices, and deployment automation, I create efficient and secure systems.
 
 Let’s connect and build something innovative!
 
